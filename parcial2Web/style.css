@@ -1,0 +1,41 @@
+.btn {
+    background-color: rgb(39, 75, 75);
+    color: white;
+
+
+    width: 300px;
+    height: 100px;
+    line-height: 100px;
+    border-radius: 50px;
+    font-size: 20px;
+
+    text-align: center;
+    vertical-align: 20px;
+
+    cursor: pointer;
+
+    margin-top: 20px;
+}
+
+.borrar {
+    background-color: red;
+}
+
+
+.input {
+
+    color: rgb(10, 167, 167);
+    margin-top: 100px;
+    margin-left: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    height: 30px;
+    width: 200px;
+
+}
+
+.listaNombres {
+  
+    font-size: 20px;
+
+}
